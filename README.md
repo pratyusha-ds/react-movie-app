@@ -19,7 +19,7 @@ This project is a simple movie search and favorites application based on [this t
 
 To set up and run this project locally, follow these steps:
 
-1. **Clone the Repository**: `git clone https://github.com/pratyusha-ds/movie-app.git`
+1. **Clone the Repository**: `git clone https://github.com/pratyusha-ds/react-movie-app.git`
 
 2. **Navigate to the Project Directory**: `cd movie-app`
 
